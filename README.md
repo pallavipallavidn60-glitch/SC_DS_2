@@ -1,4 +1,4 @@
-# SC_DC_2
+# SC_DS_2
 # 🚢 Titanic Data Analysis Project
 
 ## 📌 Project Overview
