@@ -47,4 +47,6 @@ Graphs and charts clearly show how these factors impacted survival rates.
 Paste your link here:  
 [Open in Colab](https://colab.research.google.com/drive/1KRdqhEt_sHwIMubRPdkSMaCkG7rLyTmj?usp=sharing)
 
+## ✅ Conclusion
+This project successfully analyzed the Titanic dataset to identify key factors influencing passenger survival. Through data cleaning, exploration, and visualization, it was observed that gender, passenger class, and age played significant roles in survival outcomes. The project enhanced practical skills in data analysis, visualization, and deriving insights from real-world datasets.
 
