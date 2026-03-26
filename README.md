@@ -1,65 +1,50 @@
-# SC_DS_2
+# SC_DC_2
 # 🚢 Titanic Data Analysis Project
 
 ## 📌 Project Overview
-This project explores the famous Titanic dataset to analyze the factors that influenced passenger survival. The analysis is performed using Python in Google Colab with a focus on data cleaning, exploration, and visualization.
-
----
+This project analyzes the Titanic dataset to understand the factors that influenced passenger survival. Using data analysis and visualization techniques, the project uncovers meaningful patterns and insights from real-world data.
 
 ## 🎯 Objectives
-- Perform data cleaning and preprocessing
-- Handle missing values effectively
-- Analyze survival patterns
-- Create meaningful visualizations
-
----
+- Perform data cleaning and preprocessing  
+- Handle missing values  
+- Analyze survival patterns  
+- Visualize key insights using graphs  
 
 ## 🛠️ Tools & Technologies
-- Python 🐍
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Google Colab
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Google Colab  
 
----
+## 📂 Project Structure
+- `Titanic_Analysis.ipynb` → Main notebook file  
+- `images/` → Contains output visualizations (graphs & charts)  
 
-## 📊 Key Insights
-- Female passengers had a higher survival rate than males
-- Passenger class significantly affected survival chances
-- Younger passengers showed slightly higher survival probability
-
----
-
-## 📁 Dataset Source
-- Dataset: Titanic Dataset  
+## 📊 Dataset Source
+Dataset used in this project:
+- Titanic Dataset  
 - Source: Kaggle - Titanic Machine Learning Competition  
 - Link: https://www.kaggle.com/c/titanic/data  
 
----
+## 🚀 How to Run
+1. Open the notebook in Google Colab  
+2. Run all the cells step-by-step  
+3. Visualizations and insights will be generated  
 
-## 📓 Notebook
-- File Name: `Titanic_Analysis.ipynb`  
-- Platform: Google Colab  
+## 📈 Output Description
+The analysis explores survival distribution based on features like gender, passenger class, age, and fare.  
+Graphs and charts clearly show how these factors impacted survival rates.
 
----
-
-## 🖼️ Visualizations
-All output graphs and visualizations are stored in the **`images/`** folder of this repository.
-
----
-
-## ▶️ How to Run
-1. Download or clone this repository  
-2. Open `Titanic_Analysis.ipynb` in Google Colab  
-3. Run all cells to view the analysis  
-
----
-
-## 🌟 Project Outcome
-This project helped in gaining practical experience in:
+## 📚 Learning Outcomes
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Data visualization and interpretation  
+- Data visualization techniques  
+- Understanding real-world datasets  
+
+## 🔗 Colab Notebook
+Paste your link here:  
+[Open in Colab](https://colab.research.google.com/drive/1KRdqhEt_sHwIMubRPdkSMaCkG7rLyTmj?usp=sharing)
 
 
